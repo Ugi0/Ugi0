@@ -1,5 +1,5 @@
 # 💫 About Me:
-A third year student in ICT. Interested in many fields of IT and always willing to learn more.
+A student graduated with bachelor's degree in ICT. Interested in many fields of IT and always willing to learn more.
 
 
 # 💻 Tech Stack:
