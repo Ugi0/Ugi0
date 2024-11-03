@@ -7,7 +7,7 @@ A student graduated with bachelor's degree in ICT. Interested in many fields of 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ugi0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ugi0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugi0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&exclude_repo=2D-Platformer)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugi0&theme=dark&hide_border=false&langs_count=10&include_all_commits=false&count_private=false&layout=compact&exclude_repo=2D-Platformer)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ugi0&icon=2&color=6)](https://visitcount.itsvg.in)
