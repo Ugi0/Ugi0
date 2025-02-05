@@ -10,4 +10,4 @@ A student graduated with bachelor's degree in ICT. Interested in many fields of 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugi0&theme=dark&hide_border=false&langs_count=10&include_all_commits=false&count_private=false&layout=compact&&hide=Shaderlab)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ugi0&icon=2&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Ugi0&ae27ff&base=200)
